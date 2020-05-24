@@ -48,7 +48,7 @@ uvicorn main:app --reload
 
 ## Ferramentas
 
-* 1. **FastAPI by Tiangolo** - https://fastapi.tiangolo.com/pt/
+* **FastAPI by Tiangolo** - https://fastapi.tiangolo.com/pt/
 
-* 2. **SQLAlchemy** - https://www.sqlalchemy.org/
+* **SQLAlchemy** - https://www.sqlalchemy.org/
 
