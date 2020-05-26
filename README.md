@@ -1,5 +1,6 @@
 # Primeira API com FastAPI
-#### Uma aplicação escrita em Python utilizando a tecnologia FastAPI para desenvolvimento de uma API, incluindo conexão ao banco de dados SQLite.
+
+Uma aplicação escrita em Python utilizando a tecnologia FastAPI para desenvolvimento de uma API, incluindo conexão ao banco de dados SQLite.
 
 ## Instalação
 >**Requirements:** Python 3.7.x, Pipenv;
